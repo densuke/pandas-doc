@@ -9,6 +9,8 @@
 この文書は、PythonのPandasモジュールについて、統計学とはあまり関係ない、データの読込、加工、出力を中心とした、
 個人的な備忘録という扱いになっています。
 
+2018/4/5 思いついて作り始めた(まとめ始めた)ばかりのため、情報はこれからちょこちょこいれながらの対応となります。
+
 .. toctree::
     :maxdepth: 2
     :caption: 目次:
@@ -17,9 +19,9 @@
     read
     axis_access
 
-Indices and tables
-==================
+..  Indices and tables
+    ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    * :ref:`genindex`
+    * :ref:`modindex`
+    * :ref:`search`
